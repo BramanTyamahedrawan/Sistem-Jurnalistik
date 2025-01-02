@@ -103,15 +103,3 @@ Pastikan Anda telah menginstal:
 
 ---
 
-## .me
-
-### Informasi Tambahan
-- Backend: Dibangun dengan Laravel dan menggunakan Filament untuk pengelolaan admin.
-- Frontend: Menggunakan NuxtJS untuk SPA dan SSR.
-- Fitur Utama:
-  - Backend menyediakan API RESTful untuk data jurnalistik.
-  - Frontend menampilkan data yang didapat dari API backend.
-- Dokumentasi lebih lanjut tersedia di folder masing-masing proyek.
-
-Jika ada masalah, silakan buka issue di repository atau hubungi tim pengembang.
-
